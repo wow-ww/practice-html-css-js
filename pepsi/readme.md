@@ -4,6 +4,6 @@
 
 ### 效果展示
 
-![image-20220529223649058](C:\Users\WuShi\AppData\Roaming\Typora\typora-user-images\image-20220529223649058.png)
+![image](pepsi/页面展示1.png)
 
-![image-20220529223734464](C:\Users\WuShi\AppData\Roaming\Typora\typora-user-images\image-20220529223734464.png)
+![image](pepsi/页面展示2.png)
