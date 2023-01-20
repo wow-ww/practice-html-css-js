@@ -231,6 +231,7 @@ nav.close ~ .dashboard {
   align-items: center;
   background-color: var(--panel-color);
   transition: var(--tran-05);
+  z-index: 10;
 }
 
 nav.close ~ .dashboard .top {
@@ -436,7 +437,7 @@ nav.close ~ .dashboard .top {
   }
 
   .activity .activity-data {
-    overflow-y: scroll;
+    overflow-x: scroll;
   }
 }
 
